@@ -1,0 +1,1 @@
+function qc(r){for(var n=[],o=0;o<r.length;o++)-1==n.indexOf(r[o])&&n.push(r[o]);return n}var arr=[1,2,5,7,8,4,5,2,5,4];console.log(qc(arr));
